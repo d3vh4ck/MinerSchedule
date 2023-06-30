@@ -3,7 +3,7 @@ This script can be used to start and stop a cryptocurrency miner on a schedule.
 
 MinerSchedule is very easy to use, with minimal steps for installation and configuration.
 
-## Installing MinerSchedule:
+## Installing MinerSchedule
 - Download, install, and configure your cryptocurrency miner of choice (the miner configured by default in the script is t-rex, with unMineable as the mining pool)
 - Download the `MinerSchedule.ps1` script and save it to your desired location
 - Configure `MinerSchedule.ps1` using your text editor of choice - configuration is located at the top of the MinerSchedule.ps1 file in the `User variables` section
